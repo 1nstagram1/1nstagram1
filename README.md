@@ -1,29 +1,57 @@
-<h1 align="center">Hi 👋, I'm 1nstagram</h1>
-<h3 align="center">A passionate developer from United Kingdom</h3>
+<h1 align="center">
+  <span style="color:#7289DA; text-shadow:0 0 10px #7289DA, 0 0 20px #7289DA;">👋 Hey, I'm 1nstagram</span>
+</h1>
+<h3 align="center" style="color:#ffffff; text-shadow:0 0 5px #00fff7;">Java Developer • Minecraft Modder • API Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1nstagram1&label=Profile%20views&color=0e75b6&style=flat" alt="1nstagram1" /> </p>
-
-- 🌱 I’m currently learning **Java ASM, Fabric, Paper & Velocity API**
-
-- 👯 I’m looking to collaborate on **CelesMQ**
-
-- 🤝 I’m looking for help with **CelesMQ**
-
-- 👨‍💻 All of my projects are available at [https://github.com/1nstagram1?tab=repositories](https://github.com/1nstagram1?tab=repositories)
-
-- 💬 Ask me about **Java, Paper & Velocity**
-
-- 📫 How to reach me **my Discord: 1nstagram306**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/youtube.com/@nullcordx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/@nullcordx" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1158438217318670437?bg=1f1f1f&borderRadius=12px" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1nstagram1&show_icons=true&locale=en&layout=compact" alt="1nstagram1" /></p>
+## 🧠 About Me
+- 🔥 Currently learning **Java ASM, Fabric API, Paper API, Velocity API**
+- 🤝 Working on **CelesMQ**
+- 👯 Looking to collaborate on **Minecraft client & proxy systems**
+- 💬 Ask me about **Java, Paper, Velocity & networking**
+- 📫 Contact: **Discord — 1nstagram306**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1nstagram1&show_icons=true&locale=en" alt="1nstagram1" /></p>
+---
 
+## 📊 GitHub Stats (Neon Glow)
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1nstagram1&show_icons=true&theme=dracula&hide_border=true&count_private=true&hide_title=false&title_color=ff79c6&icon_color=ff79c6&text_color=f8f8f2&bg_color=0d0d0d" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nstagram1&layout=compact&theme=dracula&hide_border=true&title_color=ff79c6&text_color=f8f8f2&bg_color=0d0d0d" />
+</p>
+
+---
+
+## 🔧 Languages & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 5px #f0db4f);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 5px #f0db4f);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 5px #3178c6);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 5px #7f52ff);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 5px #306998);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0 0 5px #00758f);"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="50" height="50" style="filter: drop-shadow(0 0 5px #ff6600);"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://discord.com/users/1158438217318670437">
+    <img src="https://img.shields.io/badge/Discord-1nstagram306-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA&color=7289DA&animation=glow"/>
+  </a>
+  <a href="https://www.youtube.com/@nullcordx">
+    <img src="https://img.shields.io/badge/Youtube-Nullcord-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000&animation=glow"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=1nstagram1&color=blueviolet&style=flat-square" />
+</p>
