@@ -6,10 +6,6 @@
   Java Developer • Minecraft Modder • API Designer
 </h3>
 
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1158438217318670437?bg=1f1f1f&borderRadius=12px" />
-</p>
-
 ---
 
 ## 🧠 About Me <a name="top"></a>
