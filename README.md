@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Discord-1nstagram306-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA&color=7289DA" />
   </a>
   <a href="https://www.youtube.com/@nullcordx">
-    <img src="https://img.shields.io/badge/Youtube-Nullcord-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000" />
+    <img src="https://img.shields.io/badge/Youtube-1nstagram-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000" />
   </a>
 </p>
 
