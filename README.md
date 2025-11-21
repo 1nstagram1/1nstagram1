@@ -6,6 +6,9 @@
   Java Developer • Minecraft Modder • API Designer
 </h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=1nstagram1&color=blueviolet&style=flat-square" />
+</p>
 ---
 
 ## 🧠 About Me <a name="top"></a>
@@ -46,16 +49,4 @@
   <a href="https://www.youtube.com/@nullcordx">
     <img src="https://img.shields.io/badge/Youtube-1nstagram-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <a href="#top">
-    <img src="https://img.shields.io/badge/Back%20to%20Top-⬆️-purple?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1nstagram1&color=blueviolet&style=flat-square" />
 </p>
