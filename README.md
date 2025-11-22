@@ -145,9 +145,4 @@ public class Developer {
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=1nstagram1&icon=5&color=6" alt="Visit Counter"/>
-</p>
-
 </div>
